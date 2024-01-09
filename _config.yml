@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cormac's ai portfolio"
+title                    : "C. McCumiskey"
 title_separator          : "-"
 name                     : &name "Cormac McCumiskey"
 description              : &description "I like to solve problems in creative ways using neural networks"
